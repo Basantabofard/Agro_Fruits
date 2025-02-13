@@ -27,12 +27,12 @@ sliders.forEach(slider =>{
 })
 
 //the typing code
-var typed = new Typed(".auto-type",{
+/*var typed = new Typed(".auto-type",{
   strings: [" Discover New Amazing Grocery Deal"],
   typeSpeed:100,
  // backSpeed:100,
   loop: true
-})
+})*/
 
 //the welcome animation
 
