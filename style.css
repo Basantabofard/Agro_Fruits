@@ -1055,6 +1055,10 @@
   /* Responsive Design */
   @media only screen and (max-width: 600px) {
 
+      body{
+          font-family: 'Arial', sans-serif;
+      }
+
 
     #header {
       height: 400px; /* Reduce height for mobile */
